@@ -10,7 +10,13 @@ I learned what an "md" file is.
 
 ## In your own words, why do we use Git?
 
+Git allows us to take a snapshot of our program. This snapshot can be saved into cloud servers like github or gitlab, leaving a trail of progress on your program. This way you can access older versions of your program to better help find issues that may have been implemented into the latest version.
+
+This is also used with teams, as git allows multiple developers to commit into a master branch
+
 ## What are the benefits of having multiple branches?
+
+
 
 ## What is the difference between Git and GitHub
 
