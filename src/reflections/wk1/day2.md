@@ -3,6 +3,8 @@
 
  (3-16-21)
 
+ AFTERNOON PROJECT: https://github.com/JaredVandeWater/IHaveACoolSite
+
 ## Daily Journal and Questions
 Wow, css is tricky, very fun to mess with, but man I am slow at figuring out. Hoping to get faster.
 <br>
