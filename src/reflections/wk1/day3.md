@@ -21,6 +21,7 @@ My favorite tip listed in the reading was using alternatives to borders. I like 
 <br>
 <br>
     ADD LINKS HERE
+    Honestly the most helpful so far has been the bootstrap website.
 <br>
 <br>
 3. How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
