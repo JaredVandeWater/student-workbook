@@ -20,8 +20,13 @@ My favorite tip listed in the reading was using alternatives to borders. I like 
 2. Compile a couple resources that you think might be helpful when trying to review examples of good design ideas.
 <br>
 <br>
-    ADD LINKS HERE
-    Honestly the most helpful so far has been the bootstrap website.
+    Honestly the most helpful so far has simply been the blog that was put together for cheating at design.
+
+    https://codeworksacademy.com/fs-student-guide/resources/wk1/04-Cheating-at-Design/#use-color-and-weight-to-create-hierarchy-instead-of-size
+
+    https://www.wix.com/blog/2017/10/5-design-tips-for-a-professional-site/
+
+    https://www.orbitmedia.com/blog/web-design-tips/
 <br>
 <br>
 3. How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
