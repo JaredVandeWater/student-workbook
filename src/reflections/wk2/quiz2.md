@@ -58,13 +58,26 @@ initializer, condition, then the blank one is final-expression.
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 <!-- enter you answer in the space below -->
 ```
-
+Data Object Model -  first file is html.
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
+primitive---
+undefined
+boolean
+number
+string
+bigint
+symbol
 
+structural--
+object
+function
+
+structural root--
+null
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
