@@ -45,7 +45,7 @@ Selector, Property, and Value
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-In CSS you would use the font-weight property.
+In CSS you would use the font-weight property, but you can also use <b> or <strong> tags.
 ```
 
 **8.** In what tag does the majority of your code belong?
