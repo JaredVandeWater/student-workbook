@@ -5,6 +5,8 @@
 
 ## Daily Journal and Questions
 
+AFTERNOON PROJECT: https://github.com/JaredVandeWater/js-day1
+
 What is Scope ?
 <br>
 <br>
