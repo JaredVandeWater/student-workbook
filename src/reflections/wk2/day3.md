@@ -1,4 +1,4 @@
-# Day 1 - Javascript intro
+# Day 1 - Rock paper scissors!
 <br>
   
  (3-24-21)
