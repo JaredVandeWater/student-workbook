@@ -1,4 +1,4 @@
-# Day 1 - Fighting Game
+# Day 4 - Fighting Game
 <br>
   
  (3-25-21)
@@ -9,7 +9,7 @@
 <br>
 <br>
 
-AFTERNOON PROJECT: 
+AFTERNOON PROJECT: https://github.com/JaredVandeWater/slapfight
 <br>
 <br>
 
@@ -21,10 +21,10 @@ Before coding, making a plan will give you a foundation of something to work tow
 How do you find answers when you are stuck?
 <br>
 <br>
-????????????
+Google! But don't just copy, really research and try to understand what you're doing.
 <br>
 From the entire article what are your biggest takeaways?
 <br>
 <br>
-?????????????????
+Something I struggle with is picking the first solution. I like to get something up and running and then change and update later, but this has caused a lot of my past projects to be very hard to add to. Definitely something to work on.
 <br>
