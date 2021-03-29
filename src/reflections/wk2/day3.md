@@ -1,4 +1,4 @@
-# Day 1 - Rock paper scissors!
+# Day 3 - Rock paper scissors!
 <br>
   
  (3-24-21)

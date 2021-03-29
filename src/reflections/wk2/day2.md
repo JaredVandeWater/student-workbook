@@ -1,4 +1,4 @@
-# Day 1 - Javascript - more problems
+# Day 2 - Javascript - more problems
 
  (3-23-21)
 
