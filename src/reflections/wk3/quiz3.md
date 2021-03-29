@@ -16,22 +16,22 @@ let property = 'name'
 ```
 <!-- enter you answer in the space below -->
 ```
-
+property = staff.name
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
 ```
-
+Keeping like things together, like how everything in a pill is supposed to work together to make you feel better.
 ```
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single Responsibility Principle
 ```
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
 ```
-
+Class in the blueprints of an object, an instance of that object is when you actually create a copy of whatever that blueprint is of. 
 ```
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
