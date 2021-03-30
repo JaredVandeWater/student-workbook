@@ -1,4 +1,4 @@
-# Day 1 - 
+# Day 1 - Classes
 <br>
   
  (3-29-21)
@@ -9,17 +9,26 @@
 <br>
 <br>
 
-AFTERNOON PROJECT: 
+AFTERNOON PROJECT: https://github.com/JaredVandeWater/zookeeper
 <br>
 <br>
-
-
-
-
 
 Read Advancing with JS > ES6 modules and answer the following questions
-What problem does using exports solve?
+<br>
 
+<br>
+<br>
+What problem does using exports solve?
+<br>
+Using exports solves the problem of using multiple script tags which costs http requests and affects performance.
+<br>
+<br>
 How does export differ from export default?
+<br>
+This could be wrong, but I think when using export, it requires a name, and default is a simply syntactic sugar to have a name for the export. I'd need further info though.
+<br>
+<br>
 
 What is a benefit of using the Module System?
+<br>
+Modules split up the javascript of a website into smaller pieces. Since websites grow to be such large projects, this is helpful to not have such massive files full of code.
