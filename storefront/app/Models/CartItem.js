@@ -1,13 +1,14 @@
 import { generateId } from "../Utils/GenerateId.js"
 
 export default class CartItem {
-    constructor(name, finalProductId, id = generateId()) {
+    constructor(name, price, id = generateId()) {
         this.id = id
+        this.price = price
         this.name = name
-        this.finalProductId = finalProductId
+
     }
 
     get Template() {
-        return `<li>${this.name} <i class="fas fa-times ml-2 text-danger" onclick="app.ingredientsController.deleteCart('${this.id}')"></i></li>`
+        return `<li>${this.name} - $${this.price.toFixed(2)} <i class="fas fa-times ml-2 text-danger" onclick="app.cartItemsController.deleteCartItem('${this.id}')"></i></li>`
     }
 }

@@ -8,16 +8,21 @@ function _draw() {
     let template = ''
 
     cartItems.forEach(p => { template += p.Template });
-    document.getElementById("productHTML").innerHTML = template
+    document.getElementById("cartItemsHTML").innerHTML = template
 }
 
 //Public
-export default class ValuesController {
+export default class CartItemsController {
     constructor() {
-        ProxyState.on("products", _draw);
+        ProxyState.on("cartItems", _draw);
         _draw()
     }
 
-    // TODO add functions here
-
+    addCartItem(name, price, itemId) {
+        cartItemsService.addCartItem(name, price, itemId)
+        console.log(itemId);
+    }
+    deleteCartItem(itemId) {
+        cartItemsService.deleteCartItem(itemId)
+    }
 }

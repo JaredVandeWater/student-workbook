@@ -7,7 +7,7 @@ export default class Product {
         this.imgUrl = imgUrl
         this.info = info
         this.id = generateId()
-
+        this.arr = []
     }
 
     get Template() {
@@ -16,7 +16,7 @@ export default class Product {
 
         <div class="col-md-4 py-3">
                     <div class="card shadow">
-                        <img class="card-img-top" src="${this.imgUrl}" alt="">
+                        <img class="card-img-top" src="${this.imgUrl}" alt="image">
                         <div class="card-body">
                             <h4 class="card-title">${this.name}
                             </h4>
@@ -24,10 +24,10 @@ export default class Product {
                         </div>
                         <div class="px-3 pb-3 d-flex justify-content-between">
                             <button type="button" class="btn btn-danger"
-                                onclick="app.housesController.addCart('${this.id}')">Add to Cart</button>
-                        </div>
-                    </div>
-                </div>`
+                                onclick="app.cartItemsController.addCartItem('${this.name}',${this.price},'${this.id}')">Add to Cart</button>
+                        </div >
+                    </div >
+                </div > `
 
     }
 }
