@@ -22,10 +22,33 @@
     </header>
 
     <main>
+        <div class="container">
+            <div class='row' id="productHTML">
 
-        <div class='row' id="productHTML">
+            </div>
+            <div class="row">
+                <div class="col border border-secondary">
+                    <h4>Cart</h4>
+
+                    <ol id="cart-items">
+                        <li>shortsword</li>
+                        <li>shortsword</li>
+                        <li>shortsword</li>
+                    </ol>
+
+                    <div class="text-right">
+                        <h4>Total: $<span id="total">0.00</span></h4> <button type="button"
+                            class="btn btn-outline-success m-2" onclick='checkout()'>Checkout</button>
+                    </div>
+                </div>
+            </div>
+            <div class="row bg-primary">
+
+                <h3>TOTAL: <span id='total'>0.00</span> </h3>
+            </div>
 
         </div>
+
     </main>
 
     <footer class="container-fluid bg-dark text-light">

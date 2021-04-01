@@ -1,7 +1,7 @@
 
 import { generateId } from "../Utils/GenerateId.js"
 export default class Product {
-    constructor(name, price, info, imgUrl = 'https://placebear.com/200/300') {
+    constructor(name, price, info, imgUrl = 'https://placebear.com/300/200') {
         this.name = name
         this.price = price
         this.imgUrl = imgUrl
@@ -14,7 +14,7 @@ export default class Product {
 
         return /*html*/`
 
-        <div class="col-md-4 mb-3">
+        <div class="col-md-4 py-3">
                     <div class="card shadow">
                         <img class="card-img-top" src="${this.imgUrl}" alt="">
                         <div class="card-body">
@@ -24,9 +24,10 @@ export default class Product {
                         </div>
                         <div class="px-3 pb-3 d-flex justify-content-between">
                             <button type="button" class="btn btn-danger"
-                                onclick="app.housesController.addCart('${this.id}')">Delete</button>
+                                onclick="app.housesController.addCart('${this.id}')">Add to Cart</button>
                         </div>
                     </div>
                 </div>`
+
     }
 }

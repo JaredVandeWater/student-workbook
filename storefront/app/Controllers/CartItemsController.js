@@ -1,13 +1,13 @@
 import { ProxyState } from "../AppState.js";
-import { productsService } from "../Services/ProductsService.js";
+import { cartItemsService } from "../Services/CartItemsService.js";
 
 
 //Private
 function _draw() {
-    let products = ProxyState.products;
+    let cartItems = ProxyState.cartItems;
     let template = ''
 
-    products.forEach(p => { template += p.Template });
+    cartItems.forEach(p => { template += p.Template });
     document.getElementById("productHTML").innerHTML = template
 }
 

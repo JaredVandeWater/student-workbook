@@ -1,5 +1,5 @@
 import { ProxyState } from "../AppState.js";
-import Value from "../Models/Product.js";
+import Product from "../Models/Product.js";
 
 class ProductsService {
 
@@ -7,5 +7,5 @@ class ProductsService {
 
 
 
-export const valuesService = new ProductsService();
+export const productsService = new ProductsService();
 
