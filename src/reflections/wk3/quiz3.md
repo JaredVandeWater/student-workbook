@@ -36,28 +36,28 @@ Class in the blueprints of an object, an instance of that object is when you act
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
 ```
-
+A Proxy object contains a target and a handler. The target the original object that you are going to proxy, while the handler is the object that defines which operations will be intercepted and how those operations will be redefined. 
 ```
 
 **7.** What is the purpose of the `MVC` pattern?
 <!-- enter you answer in the space below -->
 ```
-
+We use MVC to separate the internal representations of information from the ways info is presented to and accepted by the user. 
 ```
 **8.** What is the job of the `Controller` in the `MVC` Pattern?
 <!-- enter you answer in the space below -->
 ```
-
+Controller passes user interaction off to the service.
 ```
 
 **9.** What is the job of the `Service` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+The service layer 
 ```
 **10.** What is the job of the `Model` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+Model contains different classes that hold the interactive data of the site.
 ```
 
