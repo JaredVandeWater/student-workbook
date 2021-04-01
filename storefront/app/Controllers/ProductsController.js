@@ -12,7 +12,7 @@ function _draw() {
 }
 
 //Public
-export default class ValuesController {
+export default class ProductsController {
     constructor() {
         ProxyState.on("products", _draw);
         _draw()
