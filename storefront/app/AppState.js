@@ -1,10 +1,22 @@
-import Value from "./Models/Value.js"
+import Product from "./Models/Product.js"
 import { EventEmitter } from "./Utils/EventEmitter.js"
 import { isValidProp } from "./Utils/isValidProp.js"
 
 class AppState extends EventEmitter {
-  /** @type {Value[]} */
-  values = []
+
+  /** @type {Product[]} */
+  products = [
+    new Product('Longsword', 30, 'this is a long sword'),
+    new Product('shortsword', 30, 'this is a short sword'),
+    new Product('Longsword', 30, 'this is a long sword'),
+    new Product('shortsword', 30, 'this is a short sword')
+
+
+
+  ]
+
+  // /** @type {Cart[]} */
+  // cart = []
 }
 
 export const ProxyState = new Proxy(new AppState(), {
