@@ -7,7 +7,7 @@
 
 ## Daily Journal and Questions
 <br>
-AFTERNOON PROJECT: 
+AFTERNOON PROJECT: https://github.com/JaredVandeWater/greglist/blob/main/index.html
 <br>
 Read Advancing with JS > An Intro to Javascript Proxy Objects and answer the following questions
 <br>
