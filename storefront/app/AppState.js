@@ -6,6 +6,8 @@ import CartItem from "./Models/CartItem.js"
 
 class AppState extends EventEmitter {
 
+  total = 0
+
   /** @type {Product[]} */
   products = [
     new Product('Longsword', 30, 'this is a long sword'),
@@ -15,8 +17,9 @@ class AppState extends EventEmitter {
 
   /** @type {CartItems[]} */
   cartItems = [
-
   ]
+
+
 }
 
 export const ProxyState = new Proxy(new AppState(), {

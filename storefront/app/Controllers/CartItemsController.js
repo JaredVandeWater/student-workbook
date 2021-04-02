@@ -9,12 +9,14 @@ function _draw() {
 
     cartItems.forEach(p => { template += p.Template });
     document.getElementById("cartItemsHTML").innerHTML = template
+    document.getElementById('total').innerText = `${ProxyState.total}`
 }
 
 //Public
 export default class CartItemsController {
     constructor() {
         ProxyState.on("cartItems", _draw);
+        ProxyState.on("total", _draw);
         _draw()
     }
 
@@ -22,7 +24,7 @@ export default class CartItemsController {
         cartItemsService.addCartItem(name, price, itemId)
         console.log(itemId);
     }
-    deleteCartItem(itemId) {
-        cartItemsService.deleteCartItem(itemId)
+    deleteCartItem(price, itemId) {
+        cartItemsService.deleteCartItem(price, itemId)
     }
 }
