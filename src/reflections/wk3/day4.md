@@ -7,6 +7,7 @@
 
 ## Daily Journal and Questions
 <br>
+AFTERNOON PROJECT: https://github.com/JaredVandeWater/storefront
 <br>
 
 

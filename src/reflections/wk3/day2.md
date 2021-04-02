@@ -9,7 +9,7 @@
 <br>
 <br>
 
-AFTERNOON PROJECT: https://github.com/JaredVandeWater/zookeeper
+AFTERNOON PROJECT: https://github.com/JaredVandeWater/vendingmachine
 <br>
 <br>
 What is the purpose of Encapsulation?
