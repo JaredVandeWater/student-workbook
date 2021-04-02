@@ -3,7 +3,7 @@
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
 <!-- enter you answer in the space below -->
 ```
-
+Encapsulation, Abstraction, Inheritance, and Polymorphism.
 ```
 **2.** How would you access the `name` of the below object using the `property` variable?
 ```js
@@ -53,7 +53,7 @@ Controller passes user interaction off to the service.
 **9.** What is the job of the `Service` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-The service layer 
+The service layer contains functions that manipulate the data.
 ```
 **10.** What is the job of the `Model` in `MVC`?
 <!-- enter you answer in the space below -->
