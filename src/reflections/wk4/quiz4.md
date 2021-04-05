@@ -3,7 +3,7 @@
 **1.** What is the difference between `asynchronous` code and `synchronous` code?
 <!-- enter you answer in the space below -->
 ```
-
+Asynchronous is where you can run more than one thing at a time, where synchronous has finish the running the previous code before the next can start.
 ```
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->
