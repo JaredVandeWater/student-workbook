@@ -8,17 +8,17 @@ Asynchronous is where you can run more than one thing at a time, where synchrono
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->
 ```
-
+an object that handles an event that is dispatched by a target object. Basically it can notice if something changes in an object, and do something like draw.
 ```
 **3.** What does the `O` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Open closed principle: software entities should be extendable, but closed for modification.
 ```
 **4.** What is a callback / higher order function?
 <!-- enter you answer in the space below -->
 ```
-
+Functions that operate on other functions. So you normally need to pass in a function to get the function to work.
 ```
 **5.** What is a `promise`? How do you capture an error from a `promise`?
 <!-- enter you answer in the space below -->

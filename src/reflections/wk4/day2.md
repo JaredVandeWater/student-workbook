@@ -7,7 +7,7 @@
 
 ## Daily Journal and Questions
 <br>
-AFTERNOON PROJECT: 
+AFTERNOON PROJECT: https://github.com/JaredVandeWater/spring21-gregslist-mvc
 <br>
 
 
