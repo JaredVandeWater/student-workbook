@@ -7,7 +7,7 @@
 
 ## Daily Journal and Questions
 <br>
-AFTERNOON PROJECT: 
+AFTERNOON PROJECT: https://github.com/JaredVandeWater/itunesMusic
 <br>
 
 
@@ -17,7 +17,7 @@ Read Asynchronous Code > What is REST and answer the following questions
 
 What does REST stand for, and in simple terms what does it mean?
 <br>
-
+REpresentational State Transfer - It means a server will transfer to the client a representation of the state of the requested resource. 
 <br>
 <br>
 
