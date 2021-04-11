@@ -23,12 +23,12 @@ REpresentational State Transfer - It means a server will transfer to the client 
 
 What does Stateless mean?
 <br>
-
+The server doesn't remember who made requests, it just delivers a response regardless of other requests made by the same user.
 <br>
 <br>
 
 What URL pattern is used when writing a RESTful API?
 <br>
-
+We end each section with a plural, such as questions, leaving an array of questions, then often you'd do questions/1 to grab the first, or possible the questions/question-id to grab a specific question based on its id.
 <br>
 <br>
