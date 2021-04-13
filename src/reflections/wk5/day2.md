@@ -7,7 +7,7 @@
 
 ## Daily Journal and Questions
 <br>
-AFTERNOON PROJECT: 
+AFTERNOON PROJECT: https://github.com/JaredVandeWater/gregslistdb
 <br>
 
 
@@ -17,7 +17,9 @@ Read Servers with Node/Express > MongoDb Relationships and answer the following 
 
 Q1. What are the three types of relationships?
 <br>
-
+One to One
+One to Many
+Many to Many
 <br>
 <br>
 
