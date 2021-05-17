@@ -1,12 +1,11 @@
 # Find More About me here:
 
 ## Social Media
-  - [Follow Me on Twitter](https://twitter.com)
-  - [Connect on LinkedIn](https://linkedin.com)
+  - [Connect on LinkedIn](https://www.linkedin.com/in/jaredvandewater/)
 ## About Me
-  - [My Github](https://github.com)
-  - [Portfolio](https://github.com)
+  - [My Github](https://github.com/JaredVandeWater)
+  - [Portfolio](https://github.com/JaredVandeWater?tab=repositories)
 ## Contact
-  - Phone: 123-456-7890
-  - Email: student@student.com
+  - Phone: 208-807-0696
+  - Email: jaredvande@gmail.com
   

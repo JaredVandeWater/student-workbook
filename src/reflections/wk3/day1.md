@@ -25,7 +25,7 @@ Using exports solves the problem of using multiple script tags which costs http 
 <br>
 How does export differ from export default?
 <br>
-This could be wrong, but I think when using export, it requires a name, and default is a simply syntactic sugar to have a name for the export. I'd need further info though.
+When using export, it requires a name, and default is a simply syntactic sugar to have a name for the export.
 <br>
 <br>
 
