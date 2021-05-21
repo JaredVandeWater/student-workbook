@@ -10,6 +10,7 @@
 <br>
 
 AFTERNOON PROJECT: https://github.com/JaredVandeWater/zookeeper
+AFTERNOON PROJECT 2: https://github.com/JaredVandeWater/zoo2
 <br>
 <br>
 

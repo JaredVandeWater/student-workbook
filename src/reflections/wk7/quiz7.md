@@ -45,5 +45,5 @@ to give each item a unique identifier
 **9.** What is the `<slot>` element and what is it used for?
 <!-- enter you answer in the space below -->
 ```
-This I'm not sure about. unfortunately.
+
 ```
