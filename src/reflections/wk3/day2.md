@@ -10,7 +10,7 @@
 <br>
 
 AFTERNOON PROJECT: https://github.com/JaredVandeWater/vendingmachine
-<br>
+AFTERNOON PROJECT 2: https://github.com/JaredVandeWater/vendingmachine2
 <br>
 What is the purpose of Encapsulation?
 <br>

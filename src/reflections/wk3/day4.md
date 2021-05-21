@@ -8,6 +8,7 @@
 ## Daily Journal and Questions
 <br>
 AFTERNOON PROJECT: https://github.com/JaredVandeWater/storefront
+AFTERNOON PROJECT 2: https://github.com/JaredVandeWater/sportin-sporting-goods
 <br>
 
 
