@@ -8,6 +8,7 @@
 ## Daily Journal and Questions
 <br>
 AFTERNOON PROJECT: https://github.com/JaredVandeWater/pokemon
+AFTERNOON PROJECT: N/A due to odd schedule
 <br>
 
 

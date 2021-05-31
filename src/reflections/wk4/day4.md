@@ -8,6 +8,7 @@
 ## Daily Journal and Questions
 <br>
 AFTERNOON PROJECT: https://github.com/JaredVandeWater/itunesMusic
+AFTERNOON PROJECT 2: https://github.com/JaredVandeWater/Pokemon2
 <br>
 
 
