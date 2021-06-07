@@ -8,6 +8,7 @@
 ## Daily Journal and Questions
 <br>
 AFTERNOON PROJECT: https://github.com/JaredVandeWater/burgers
+AFTERNOON PROJECT 2: Memorial Day
 <br>
 
 

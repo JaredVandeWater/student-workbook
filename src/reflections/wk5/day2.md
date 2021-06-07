@@ -8,6 +8,7 @@
 ## Daily Journal and Questions
 <br>
 AFTERNOON PROJECT: https://github.com/JaredVandeWater/gregslistdb
+AFTERNOON PROJECT 2: https://github.com/JaredVandeWater/gregslist-summer-v2
 <br>
 
 

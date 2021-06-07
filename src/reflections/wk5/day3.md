@@ -8,6 +8,7 @@
 ## Daily Journal and Questions
 <br>
 AFTERNOON PROJECT: https://github.com/JaredVandeWater/planets
+AFTERNOON PROJECT 2: https://github.com/JaredVandeWater/planets2
 <br>
 
 

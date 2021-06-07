@@ -8,6 +8,7 @@
 ## Daily Journal and Questions
 <br>
 AFTERNOON PROJECT: Got Ready for hackathon
+AFTERNOON PROJECT 2: Got Ready for hackathon 2
 <br>
 
 
