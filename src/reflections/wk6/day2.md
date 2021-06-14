@@ -8,6 +8,8 @@
 ## Daily Journal and Questions
 <br>
 AFTERNOON PROJECT: https://github.com/JaredVandeWater/vuepokemon
+AFTERNOON PROJECT2:
+https://github.com/JaredVandeWater/vue-nasa
 <br>
 Read Frontend Frameworks with Vue3 > How to use Props in Vue and answer the following questions
 

@@ -8,6 +8,8 @@
 ## Daily Journal and Questions
 <br>
 AFTERNOON PROJECT:https://github.com/JaredVandeWater/vueplayground
+AFTERNOON PROJECT2: https://github.com/JaredVandeWater/vue-playground
+
 <br>
 Read Frontend Frameworks with Vue3 > Understanding Component Based Architecture and answer the following questions
 <br>

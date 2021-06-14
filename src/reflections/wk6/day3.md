@@ -8,6 +8,8 @@
 ## Daily Journal and Questions
 <br>
 AFTERNOON PROJECT: https://github.com/JaredVandeWater/spring21-vue-gregslist
+AFTERNOON PROJECT2: Added to https://github.com/JaredVandeWater/vue-nasa
+
 <br>
 Read Frontend Frameworks with Vue3 > Understanding VueJs Lifecycle Hooks and answer the following questions
 <br>

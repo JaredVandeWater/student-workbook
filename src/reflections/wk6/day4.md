@@ -8,6 +8,9 @@
 ## Daily Journal and Questions
 <br>
 AFTERNOON PROJECT: https://github.com/JaredVandeWater/bloggr-vue
+AFTERNOON PROJECT2:
+https://github.com/JaredVandeWater/pokedex-vue
+
 <br>
 Read Frontend Frameworks with Vue3 > Using Nested Routes in Vue.js and answer the following questions
 <br>
