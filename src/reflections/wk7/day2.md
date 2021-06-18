@@ -14,13 +14,13 @@ Read Advancing with Vue 3 > Code documentation for JavaScript with JSDoc: an int
 
 Q1. What is Code Documentation? What are some of the ways to document code?
 <br>
-It's how we allow other devs to know what we our code is doing, using guides, readmes,code documentation in the source
+It's how we allow other devs to know what our code is doing we use guides, readme's, and code documentation in the source
 <br>
 <br>
 
 Q2. What are some benefits of Code Documentation?
 <br>
-It allows for more info to be shared about what code is doing.
+It allows for more info to be shared about what code is doing, gives a clearer picture to how different functions work and shares info on he kinda of things you can do that may not be super obvious.
 <br>
 <br>
 

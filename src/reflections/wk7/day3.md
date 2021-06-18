@@ -14,7 +14,7 @@ Read Advancing with Vue 3 > Designing a Strong User Experience and answer the fo
 
 Q1. What is a User Experience? What should be considered when developing a User Experience?
 <br>
-UX  to help users do what they want to do when interacting with your business. always keep their feelings in mind. 
+UX is to help users do what they want to do when interacting with your business. always keep their feelings in mind, always build things with simplicity and ease of use first. 
 <br>
 <br>
 
