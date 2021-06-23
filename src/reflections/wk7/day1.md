@@ -26,5 +26,5 @@ It helps with having 2 sets of eyes to find issues, helps keep flow, helps with 
 
 Q3. What are some drawbacks to Pair Programming?
 <br>
-A running commentary is required, and people need to be in a good relationship to work together, nt everyone has a similar skill and on person can easily take too much control.
+A running commentary is required, and people need to be in a good relationship to work together, not everyone has a similar skill and on person can easily take too much control.
 
