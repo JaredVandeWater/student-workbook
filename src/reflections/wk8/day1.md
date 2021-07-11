@@ -8,7 +8,7 @@
 ## Daily Journal and Questions
 <br>
 <br>
-Read Working In a Professional Environment > An Honest Guide to Building a Powerful Developer Portfolio and answer the following questions
+
 <br>
 <br>
 
