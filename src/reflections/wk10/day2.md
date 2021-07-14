@@ -14,13 +14,13 @@ Read Foundations of C# > C# List and answer the following questions
 
 Q1. What is a List in C#?
 <br>
-
+We utilize lists like arrays because you can add and remove items from them and store things like arrays in JS.
 <br>
 <br>
 
 Q2. What List methods seem like you might use them often? Why?
 <br>
-
+Add, Add Range
 <br>
 <br>
 
