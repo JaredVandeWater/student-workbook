@@ -20,12 +20,12 @@ We utilize lists like arrays because you can add and remove items from them and 
 
 Q2. What List methods seem like you might use them often? Why?
 <br>
-Add, Add Range
+Add, Add Range, Theres likely a lot more, but simply adding to a list will ve utilized the most.
 <br>
 <br>
 
 Q3. How would you retrieve an item from a list? What method could you use?
 <br>
-
+There are a lot of linq methods, or you could use the index.
  
 
